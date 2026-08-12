@@ -1,16 +1,15 @@
-## Hi there 👋
+# Thodoris Sagias
 
-<!--
-**ThodorisSagias/ThodorisSagias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Statistics (AUEB), writing my thesis as a visiting graduate student at UPC Barcelona.
 
-Here are some ideas to get you started:
+I build statistical models that get used: minute-level viewership forecasting for a
+national broadcaster, mixed-effects models for elite marathon performance,
+variance-reduced Monte Carlo pricing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills:** Python · R · SQL / PostgreSQL · time series (ARIMA, GARCH) ·
+mixed-effects & Bayesian models · ETL and star-schema design
+
+Based in Barcelona from September 2026. EU citizen, no visa or sponsorship needed.
+Available full-time from February 2027.
+
+sagiastheo@gmail.com · [LinkedIn](https://linkedin.com/in/thodoris-sagias/)
